@@ -1,7 +1,7 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media1.giphy.com/media/WuZFeCtAKwjkY/giphy.gif?cid=ecf05e472veml3fkbvbgk4nvrh4cakfpgbrzqiniab3nf2rx&rid=giphy.gif&ct=g%22)">
 
 <h1 align="center">Eai, beleza?:smile:</h1>
-<p>Bem vindo(a) ao meu mundo emocionante de estudante de Sistemas de Informação.Atualmente, estagária no Itau Unibanco na área de Operações e Tecnologia focada em desenvolver ferramentas facilitadoras para o ramo de investimentos. Estudante das tecnologias, HTML,CSS,JS, Python e C#. Uma pessoa apaixonada por aprender e construir meu espaço no mercado de tecnologia.
+<p>Bem vindo(a) ao meu mundo emocionante de estudante de Sistemas de Informação e estgiária no Itau Unibanco no setor de Found of Founds. Tenho um forte interesse em investimentos, sou apaixonada por entender como a tecnologia está mudando a forma como as pessoas investem.Meu objetivo é combinar minhas habilidades em tecnologia com meu interesse em investimentos para contribuir com mais eficiência no meu ambiente de trabalho.Acredito que a tecnologia tem um papel fundamental a desempenhar no futuro dos investimentos e estou animada para fazer parte desse movimento.
 </p>
 
 
