@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Eai, beleza?:smile:</h1>
-<p>Bem vindo(a) ao meu mundo emocionante de estudante de Sistemas de Informação e estgiária no Itau Unibanco no setor de Found of Founds. Tenho um forte interesse em investimentos, sou apaixonada por entender como a tecnologia está mudando a forma como as pessoas investem.Meu objetivo é combinar minhas habilidades em tecnologia com meu interesse em investimentos para contribuir com mais eficiência no meu ambiente de trabalho.Acredito que a tecnologia tem um papel fundamental a desempenhar no futuro dos investimentos e estou animada para fazer parte desse movimento.
+<p>Bem vindo(a) ao meu mundo emocionante de estudante de Sistemas de Informação, experiência com testes em sistema(simulando a rotina do usuário) com finalidade de identificar bugs, melhorias e soluções para o cliente, em conjunto, experiência em relação com o cliente através de reuniões e resoluções de chamados de TI. Experiência em automação de processos com Python e Alteryx, experiência com tratamento de dados e experiência com criação de macros em VBA.No momento meu maior desfio é realizar o estudo e aprimoramento das competências a seguir;Python,.Net, AWS, boas práticas em programação, metodologias de desenvolvimento de software e Testes Unitários. Por fim, sobre tecnologia de banco de dados sigo estudando e utilizando nos meus projetos o SQL Server.
 </p>
 
 
